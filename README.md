@@ -67,7 +67,8 @@ The system includes:
 ## Tabulation
 
 **Transmission Analysis Across Fiber Lengths**
-<img width="981" height="1442" alt="image" src="https://github.com/user-attachments/assets/b03b97b6-66ad-4a34-a1cf-c610662d346a" />
+<img width="1280" height="870" alt="image" src="https://github.com/user-attachments/assets/82e6e8de-f3a7-40b9-b811-a30c8a83198d" />
+
 
 
 ---
